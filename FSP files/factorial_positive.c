@@ -7,7 +7,7 @@ int main()
     scanf("%d", &n);
 
     if (n < 0)
-        printf("Error actorial of a negative no doesn't exist");
+        printf("Error factorial of a negative no doesn't exist");
     else
     {
         for (i = 1; i <= n; ++i)
